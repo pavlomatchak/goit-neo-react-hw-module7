@@ -1,0 +1,17 @@
+.item {
+  align-items: center;
+  border: 1px solid gray;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
+
+.item p {
+  margin: 0;
+  text-align: left;
+}
+
+.item p span {
+  margin-right: 5px;
+}

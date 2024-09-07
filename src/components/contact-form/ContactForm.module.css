@@ -1,0 +1,19 @@
+.form {
+  border: 1px solid grey;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.label {
+  margin-bottom: 5px;
+  text-align: left;
+  width: 100%;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+}
